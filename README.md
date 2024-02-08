@@ -1,1 +1,1 @@
-# sql-project-beg
+# sql-assessment
